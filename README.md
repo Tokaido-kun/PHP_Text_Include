@@ -1,5 +1,6 @@
 # PHP_Text_Include
-PHPで動く画像の右下に文字を入れるツール
+<h1>PHPで動く画像の右下に文字を入れるツール</h1>
+
 PHP 5.4≦
 
 JPGおよびPNGに対応
@@ -8,8 +9,9 @@ JPGおよびPNGに対応
 <code>/usr/local/bin/php example.jpg</code>
 
 フォントは別途ご用意ください。
-推奨オープンソースフォント
-Noto Sans(Google)
+
+<h2>推奨オープンソースフォント</h2>
+<h3>Noto Sans(Google)</h3>
 https://fonts.google.com/noto/specimen/Noto+Sans+JP?subset=japanese
-BIZ UDPゴシック(モリサワ) *SIL Open Font License
+<h3>BIZ UDPゴシック(モリサワ) *SIL Open Font License</h3>
 https://github.com/googlefonts/morisawa-biz-ud-gothic
