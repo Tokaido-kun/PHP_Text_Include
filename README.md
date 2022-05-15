@@ -1,0 +1,2 @@
+# PHP_Text_Include
+PHPで動く画像の右下に文字を入れるツール
