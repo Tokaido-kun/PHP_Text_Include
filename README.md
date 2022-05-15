@@ -1,7 +1,7 @@
 # PHP_Text_Include
 <h1>PHPで動く画像の右下に文字を入れるツール</h1>
 
-PHP 5.4≦
+PHP 5.4≦ (FreetypeおよびGDサポート必須)
 
 JPGおよびPNGに対応
 
